@@ -1,0 +1,5 @@
+create public  with images folder --> put images in here. 
+under src, components folder, create images.js file, create a div className with onclick event...store in state then use what is in this.state to be mapped remmeber to use a key=(i.id). 
+
+to shuffle use handleShuffle(id) {} 
+
