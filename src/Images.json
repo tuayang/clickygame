@@ -1,0 +1,101 @@
+[{
+        "id": 1,
+        "image": "./images/onix.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./images/articuno.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./images/machamp.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./images/jolteon.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./images/lapras.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./images/pikachu.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./images/pidgeot.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./images/arcanine.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./images/ninetales.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./images/poliwhirl.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./images/bulbasaur.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./images/charizard.png",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "image": "./images/kangaskhan.png",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "image": "./images/mewtwo.png",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "image": "./images/eevee.png",
+        "clicked": false
+    },
+    {
+        "id": 16,
+        "image": "./images/scyther.png",
+        "clicked": false
+    },
+    {
+        "id": 17,
+        "image": "./images/gyarados.png",
+        "clicked": false
+    },
+    {
+        "id": 18,
+        "image": "./images/wartortle.png",
+        "clicked": false
+    },
+    {
+        "id": 19,
+        "image": "./images/bellsprout.png",
+        "clicked": false
+    },
+    {
+        "id": 20,
+        "image": "./images/psyduck.png",
+        "clicked": false
+    }
+]

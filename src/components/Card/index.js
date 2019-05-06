@@ -1,4 +1,4 @@
 export {
     default
 }
-from "./Wrapper";
+from "./Card";
